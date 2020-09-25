@@ -1,0 +1,122 @@
+[
+  {
+    "key": "BI",
+    "region": "Analytics services",
+    "value":2 
+  },
+  {
+    "key": "Reporting Services",
+    "region": "Analytics services",
+    "value": 2
+  },
+  {
+    "key": "Predictive Analysis",
+    "region": "Analytics services",
+    "value": 0
+  },
+  {
+    "key": "Trend analysis",
+    "region": "Analytics services",
+    "value": 0
+  },
+  {
+    "key": "Agile Delivery",
+    "region": "Application devlopment lifecycle",
+    "value": 2
+  },
+  {
+    "key": "Continuous integration",
+    "region": "Application devlopment lifecycle",
+    "value": 2
+  },
+   {
+    "key": "Quality control",
+    "region": "Application devlopment lifecycle",
+    "value": 2
+  },
+   {
+    "key": "Mobile apps development",
+    "region": "Application devlopment lifecycle",
+    "value": 1
+  },
+   {
+    "key": "Container deployment",
+    "region": "Application devlopment lifecycle",
+    "value": 2
+  },
+   {
+    "key": "NLP",
+    "region": "Artificial intelligence",
+    "value": 0
+  },
+  {
+    "key": "Sentiment analysis",
+    "region": "Artificial intelligence",
+    "value": 0
+  },
+  {
+    "key": "Computer Vision",
+    "region": "Artificial intelligence",
+    "value": 0
+  },
+ {
+    "key": "ML",
+    "region": "Artificial intelligence",
+    "value": 0
+  },
+  {
+    "key": "Personalised Recommendation",
+    "region": "Artificial intelligence",
+    "value": 0
+  },
+  {
+    "key": "Personalisation",
+    "region": "Content Delivery Services",
+    "value": 1
+  },
+  {
+    "key": "forms",
+    "region": "Content Delivery Services",
+    "value": 1
+  },
+ {
+    "key": "Micro Site",
+    "region": "Content Delivery Services",
+    "value": 1
+  },
+  {
+    "key": "Mobile app platforms",
+    "region": "Content Delivery Services",
+    "value": 1
+  },
+  {
+    "key": "search",
+    "region": "Content Delivery Services",
+    "value": 3
+  },
+ {
+    "key": "Layout management",
+    "region": "Content Delivery Services",
+    "value": 3
+  },
+ {
+    "key": "Multilingual support",
+    "region": "Content Delivery Services",
+    "value": 3
+  },
+ {
+    "key": "SEO",
+    "region": "Content Delivery Services",
+    "value": 3
+  },
+  {
+    "key": "Aggregation",
+    "region": "Content Delivery Services",
+    "value": 1
+  },
+  {
+    "key": "Dashboard",
+    "region": "Content Delivery Services",
+    "value": 1
+  }
+  ]
